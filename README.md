@@ -12,8 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # ✅ autora
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- width="100px;" alt=""/>
+<a href="https://www.linkedin.com/in/beatriz-miranda-120b121b0/">
  <br />
  <sub><b>Beatriz Miranda</b></sub></a> 
 
